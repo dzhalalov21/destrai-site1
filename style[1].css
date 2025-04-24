@@ -1,0 +1,29 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #5f72be, #9b23ea);
+    color: white;
+    text-align: center;
+}
+.logo {
+    width: 120px;
+    margin-top: 40px;
+}
+header {
+    padding: 50px 20px;
+}
+.cta-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 24px;
+    background-color: white;
+    color: #5f72be;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.cta-button:hover {
+    background-color: #eee;
+}
